@@ -64,9 +64,9 @@
 ## 🔗 Let's Connect
 
 - 📫 Email: aaradhyvairagi@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🔍 [LeetCode](https://leetcode.com/aaradhy22)  
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/aaradhy-vairagi-a22b35317/))  
+- 🔍 [LeetCode]([https://leetcode.com/aaradhy22](https://leetcode.com/u/aaradhyavairagi/))  
+- 🌐 [Portfolio]([https://yourportfolio.com](https://aaradhy22.github.io/portfolio/))
 
 ---
 
