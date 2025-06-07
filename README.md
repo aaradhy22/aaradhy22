@@ -1,30 +1,75 @@
 <h1 align="center">Hi there, I'm Aaradhy Vairagi 👋</h1>
 
-🔭 I’m currently building **SecretBench** and journaling apps using Java & JSP/Servlets  
-🌱 I’m learning **Java Full Stack Development**  
-💬 Ask me about anything related to DSA, Java, Web Dev  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-username)  
-⚡ Fun fact: I love designing emotional UIs that tell a story!
+<p align="center">
+  Aspiring Java Full Stack Developer | Emotion-Driven UI Designer | Passionate Problem Solver
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 💼 About Me
+
+🎓 Final Year Computer Science Student  
+🌐 Currently building meaningful apps like **SecretBench** – a journaling space for silent emotions  
+💡 I love blending backend logic with front-end emotions  
+🧠 Preparing for placements (Adobe, Goldman Sachs, and more)  
+📍 Based in India | Open to remote/internship roles  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
+
+**Backend:**  
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot)
+![JSP](https://img.shields.io/badge/-JSP-000?&logo=java)
+![Servlets](https://img.shields.io/badge/-Servlets-000?&logo=java)
+![JDBC](https://img.shields.io/badge/-JDBC-000?&logo=java)
+
+**Database & Tools:**  
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![Render](https://img.shields.io/badge/-Render-000?&logo=render)
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)
 
 ---
 
-### 📈 GitHub Stats
-![Aaradhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaradhy22&show_icons=true&theme=github_dark)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaradhy22&show_icons=true&theme=github_dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaradhy22&layout=compact&theme=github_dark" height="165">
+</p>
 
 ---
 
-### 🔗 Links
-- [LeetCode](https://leetcode.com/yourprofile)
-- [Portfolio](https://yourportfolio.com)
+## 🚀 Featured Projects
+
+- 💌 **[SecretBench](https://github.com/aaradhy22/secretbench)** – Share anonymous heartfelt letters with emotional UI
+- 📚 **[ASCENDIFY](https://github.com/aaradhy22/ascendify)** – Group-based productivity and academic improvement app
+- 🔐 **Login/Registration System (JSP + Servlets)** – Secure auth with MySQL backend and modern UI
+
+---
+
+## 🔗 Let's Connect
+
+- 📫 Email: aaradhyvairagi@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🔍 [LeetCode](https://leetcode.com/aaradhy22)  
+- 🌐 [Portfolio](https://yourportfolio.com)
+
+---
+
+<p align="center">
+  "Code with empathy. Design with meaning. Build with purpose." 💙
+</p>
