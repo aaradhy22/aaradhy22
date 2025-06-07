@@ -19,10 +19,11 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-800080?&logo=Java&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-800080?&logo=c%2B%2B&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-800080?&logo=javascript&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-800080?&logo=mysql&logoColor=ffffff)
+
 
 **Backend:**  
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot)
