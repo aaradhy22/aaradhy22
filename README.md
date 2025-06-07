@@ -24,24 +24,23 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-800080?&logo=javascript&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-800080?&logo=mysql&logoColor=ffffff)
 
-
 **Backend:**  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot)
-![JSP](https://img.shields.io/badge/-JSP-000?&logo=java)
-![Servlets](https://img.shields.io/badge/-Servlets-000?&logo=java)
-![JDBC](https://img.shields.io/badge/-JDBC-000?&logo=java)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6F42C1?&logo=springboot&logoColor=white)
+![JSP](https://img.shields.io/badge/-JSP-5A189A?&logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/-Servlets-7B2FF7?&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/-JDBC-9D4EDD?&logo=java&logoColor=white)
 
 **Database & Tools:**  
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![Render](https://img.shields.io/badge/-Render-000?&logo=render)
+![MySQL](https://img.shields.io/badge/-MySQL-4A148C?&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-7B1FA2?&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-8E24AA?&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-6A1B9A?&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-9C27B0?&logo=render&logoColor=white)
 
 **Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-AB47BC?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-BA68C8?&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-CE93D8?&logo=tailwind-css&logoColor=white)
 
 ---
 
