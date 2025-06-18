@@ -8,11 +8,12 @@
 
 ## 💼 About Me
 
-🎓 Final Year Computer Science Student  
-🌐 Currently building meaningful apps like **SecretBench** – a journaling space for silent emotions  
-💡 I love blending backend logic with front-end emotions  
-🧠 Preparing for placements (Adobe, Goldman Sachs, and more)  
-📍 Based in India | Open to remote/internship roles  
+- 👨‍💻 Java Full Stack Developer | Backend Enthusiast
+- 🎓 Final Year B.Tech CSE Student
+- 💻 Tech Stack: Java | Spring Boot | Hibernate | SQL | JDBC | JSP/Servlet | React
+- 🧠 Currently Learning: System Design | Microservices | GitOps
+- 🚀 Goals: Contribute to impactful products & crack top tech placements
+- 📫 Open to: Internships | Remote roles | OSS collaborations
 
 ---
 
